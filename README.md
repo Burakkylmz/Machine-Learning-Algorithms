@@ -4,4 +4,4 @@ Makine öğrenimi, bilgiden veri çıkarmakla ilgilidir. İstatistiklerin, yapay
 
 Ticari uygulamalar dışında, makine öğreniminin günümüzde veriye dayalı araştırmaların yapılma şekli üzerinde muazzam bir etkisi olmuştur. Dünyamızı ilgilendiren bir çok önemli araştırma içerisinde machine learning önemli bir yer tutmaktadır. Örneğin, yıldızları anlamak, uzak gezegenleri bulmak, yeni parçacıklar keşfetmek, DNA dizilerini analiz etmek ve kişiselleştirilmiş kanser tedavileri sağlamak gibi çeşitli bilimsel problemlere makine öğrenmimi uygulanmaktadır.
 
-[Click me](http://www.google.com){: .btn}
+[Analyzing Data](https://github.com/Burakkylmz/Machine-Learning-Algorithms/blob/master/Analyzing%20Data.ipynb)
