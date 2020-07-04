@@ -5,7 +5,7 @@ Makine öğrenimi, bilgiden veri çıkarmakla ilgilidir. İstatistiklerin, yapay
 Ticari uygulamalar dışında, makine öğreniminin günümüzde veriye dayalı araştırmaların yapılma şekli üzerinde muazzam bir etkisi olmuştur. Dünyamızı ilgilendiren bir çok önemli araştırma içerisinde machine learning önemli bir yer tutmaktadır. Örneğin, yıldızları anlamak, uzak gezegenleri bulmak, yeni parçacıklar keşfetmek, DNA dizilerini analiz etmek ve kişiselleştirilmiş kanser tedavileri sağlamak gibi çeşitli bilimsel problemlere makine öğrenmimi uygulanmaktadır.
 
 <p>
-  <a href="https://travis-ci.org/bahmutov/start-server-and-test" rel="nofollow"
+  <a href="https://github.com/Burakkylmz/Machine-Learning-Algorithms/blob/master/Data%20Visualization.ipynb" rel="nofollow"
      <img src="https://travis-ci.org/bahmutov/start-server-and-test.svg?branch=master" alt="Build status">
   </a>
   <a href="https://github.com/semantic-release/semantic-release" rel="nofollow">
